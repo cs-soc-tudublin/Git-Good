@@ -1,6 +1,3 @@
-file = open("names.txt", 'r').readlines()
-
-i = 0
-while i < len(file):
-    print(file[i], "can git gud")
-    i += 1
+with open("names.txt", "r", encoding="UTF-8") as fp:
+    for x in fp.readlines():
+        print(x.strip(), "can git gud")
