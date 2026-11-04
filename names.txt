@@ -13,7 +13,7 @@ Mandem
 Patrick
 GRAINY WEIRDO
 Polina
-Aaron - First conflict resolved 
+Aaron - First conflict resolved
 Ruben
 EL
 JEROME
@@ -21,4 +21,11 @@ Tommy B
 Sheffo
 Noel
 David Lynch
+<<<<<<< HEAD
 Teo
+=======
+Teodor
+Georgin Jobin
+BitFlip
+
+>>>>>>> 2a742738b95a8d829a0efba7fb7b1e55568ad0bb
